@@ -1,3 +1,4 @@
 #git教程
 
--feature-A
+- feature-A
+- featurec-C
